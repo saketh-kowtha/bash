@@ -1,2 +1,2 @@
 # bash
-Bash Learning excrises
+Bash Learning exercise
