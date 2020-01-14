@@ -1,4 +1,4 @@
-# bash
+# Bash
 Bash Learning exercise
 
 1.Basic Problems
@@ -33,3 +33,6 @@ Bash Learning exercise
 
 4. Creating New user and creating a file with "Hello" content on users dektop folder without sudo
 
+# Usage
+Clone the REPO and run program with ```bash``` command
+Example: ```bash PROGRAM_NAME```
