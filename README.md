@@ -50,8 +50,7 @@ sudo docker run -it custom_image_name ./home/Bash/programe_name
 ```
 sudo docker build -t custom_image_name . 
 #list of programs
-sudo docker run -it custom_image_name ls /home/Node
+sudo docker run -it custom_image_name ls /home/Bash
 #Running program
-sudo docker run -it custom_image_name node ./home/Node/programe_name
+sudo docker run -it custom_image_name ./home/Bash/programe_name
 ```
-Note : For Clinical Management System and Address book need to install node_modules. Please use ```npm i or npm install``` to Download 
