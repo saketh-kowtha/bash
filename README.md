@@ -1,4 +1,5 @@
-# Bash
+# Programs List
+## Bash
 Bash Learning exercise
 
 1.Basic Problems
@@ -36,3 +37,12 @@ Bash Learning exercise
 # Usage
 Clone the REPO and run program with ```bash``` command
 Example: ```bash PROGRAM_NAME```
+
+# Using Docker
+```
+sudo docker build -t custom_image_name . 
+#list of programs
+sudo docker run -it custom_image_name ls /home/Bash
+#Running program
+sudo docker run -it custom_image_name ./home/Bash/programe_name
+```
